@@ -16,4 +16,8 @@ Web Scraping...................[Web_Scraping.ipynb](https://github.com/syager26/
 PCA and Clustering.............[PCA_Clustering.ipynb](https://github.com/syager26/Sports-Analytics/blob/main/PCA_Clustering.ipynb)
 
 
-
+Some of the skills from this class include:
+* Model creation in Python and R
+* Web scraping in Python and R
+* Data visualizations in Python and R
+* Presentations of reports
