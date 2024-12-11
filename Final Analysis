@@ -1,0 +1,6 @@
+Some of the conclusions I have drawn from my projects in this class include:
+
+* GLMs are extremely versatile and can be used to predict how many yards a team will rush for within a range.
+  - I was able to use a GLM with a Poisson distribution to accurately predict a range of how many yards a team would rush for in a given       game by subtracting the CDF at the lower bound of the range from the CDF at the upper bound of the range.
+* While logistic regression is a very powerful tool, it is not very insightful when it comes to predicting sacks on each down since the probability of getting a sack on any down is already so low.
+* While there are many examples of outliers, NFL players' career performance typically correlates with the round they were picked in, regardless of position.
